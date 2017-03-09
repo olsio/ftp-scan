@@ -1,42 +1,80 @@
 package store
 
 import (
-	"encoding/binary"
+	"encoding/json"
+	"fmt"
 	"log"
 
 	"github.com/boltdb/bolt"
+	"github.com/olsio/ftp-scan/types"
 )
+
+const mainBucket = "target"
 
 type Store struct {
 	db *bolt.DB
 }
 
-func NewStore(file string) *Store {
-	db, err := bolt.Open(file, 0600, nil)
+func Open() *Store {
+	db, err := bolt.Open("my.db", 0600, nil)
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer db.Close()
 
 	store := new(Store)
 	store.db = db
 	return store
 }
 
-func (store *Store) AddScanTarget(target []byte) error {
-	return store.db.Update(func(tx *bolt.Tx) error {
-		// Retrieve the users bucket.
-		// This should be created when the DB is first opened.
-		b, _ := tx.CreateBucketIfNotExists([]byte("target"))
-		id, _ := b.NextSequence()
+func (store *Store) Close() error {
+	return store.db.Close()
+}
 
-		// Persist bytes to users bucket.
-		return b.Put(itob(id), target)
+func (store *Store) Clear() error {
+	return store.db.Update(func(tx *bolt.Tx) error {
+		err := tx.DeleteBucket([]byte(mainBucket))
+		if err != nil {
+			log.Fatal(err)
+			return err
+		}
+		return nil
 	})
 }
 
-func itob(v uint64) []byte {
-	b := make([]byte, 8)
-	binary.BigEndian.PutUint64(b, v)
-	return b
+func (store *Store) AddResult(target string, result types.Result) error {
+	return store.db.Update(func(tx *bolt.Tx) error {
+		b, _ := tx.CreateBucketIfNotExists([]byte(mainBucket))
+
+		result, err := json.Marshal(result)
+
+		if err != nil {
+			log.Fatal(err)
+			return err
+		}
+
+		return b.Put([]byte(target), result)
+	})
+}
+
+func (store *Store) Contains(target string) (bool, error) {
+	var result bool
+	err := store.db.View(func(tx *bolt.Tx) error {
+		bucket, err := tx.CreateBucketIfNotExists([]byte(mainBucket))
+		result = bucket.Get([]byte(target)) != nil
+		return err
+	})
+	return result, err
+}
+
+func (store *Store) List() error {
+	return store.db.View(func(tx *bolt.Tx) error {
+		b := tx.Bucket([]byte([]byte(mainBucket)))
+		c := b.Cursor()
+
+		for k, v := c.First(); k != nil; k, v = c.Next() {
+			fmt.Printf("key=%s, value=%s\n", k, v)
+		}
+
+		return nil
+	})
 }

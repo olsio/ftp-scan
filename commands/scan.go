@@ -3,7 +3,6 @@ package commands
 import (
 	"bufio"
 	"encoding/json"
-	"fmt"
 	"log"
 	"os"
 
@@ -12,11 +11,11 @@ import (
 	"github.com/urfave/cli"
 )
 
-func Load() cli.Command {
+func Scan() cli.Command {
 	return cli.Command{
-		Name:   "load",
-		Usage:  "loads IP list from scan",
-		Action: load,
+		Name:   "scan",
+		Usage:  "scans IP",
+		Action: scan,
 		Flags: []cli.Flag{
 			cli.StringFlag{
 				Name:  "file",
@@ -24,29 +23,37 @@ func Load() cli.Command {
 			},
 		},
 	}
-
 }
 
-func load(c *cli.Context) error {
+func scan(c *cli.Context) error {
 	dbFile := c.String("file")
 	file, err := os.Open(dbFile)
+
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer file.Close()
 
-	store := store.NewStore("my.db")
+	store := store.Open()
+	store.Clear()
 
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
 		line := scanner.Text()
-		fmt.Println(line)
 		var jsontype types.Grab
 		json.Unmarshal([]byte(line), &jsontype)
-		fmt.Printf("Results: %v\n", jsontype)
+
+		alreadyScanned, _ := store.Contains(jsontype.IP)
+
+		if alreadyScanned {
+			continue
+		}
 
 		if jsontype.Error == nil {
-			store.AddScanTarget([]byte(line))
+			if err := store.AddResult(jsontype.IP, types.Result{Directories: make([]string, 0)}); err != nil {
+				log.Fatal(err)
+				return err
+			}
 		}
 	}
 
@@ -55,5 +62,5 @@ func load(c *cli.Context) error {
 		return err
 	}
 
-	return nil
+	return store.Close()
 }

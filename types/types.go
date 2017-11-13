@@ -12,7 +12,3 @@ type Grab struct {
 type GrabData struct {
 	Banner string `json:"banner,omitempty"`
 }
-
-type Result struct {
-	Directories []string `json:"directories"`
-}

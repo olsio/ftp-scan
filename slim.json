@@ -1,0 +1,1000 @@
+{"ip":"39.108.53.200","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:14865-\u003e39.108.53.200:21: i/o timeout","error_component":"banner"}
+{"ip":"199.139.52.236","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"dial tcp 199.139.52.236:21: i/o timeout","error_component":"connect"}
+{"ip":"178.228.221.160","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:11271-\u003e178.228.221.160:21: i/o timeout","error_component":"banner"}
+{"ip":"58.30.243.94","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:15999-\u003e58.30.243.94:21: i/o timeout","error_component":"banner"}
+{"ip":"69.147.62.3","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:37389-\u003e69.147.62.3:21: i/o timeout","error_component":"banner"}
+{"ip":"150.129.43.222","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:22805-\u003e150.129.43.222:21: i/o timeout","error_component":"banner"}
+{"ip":"41.225.139.76","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:58483-\u003e41.225.139.76:21: i/o timeout","error_component":"banner"}
+{"ip":"103.61.3.66","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:10068-\u003e103.61.3.66:21: i/o timeout","error_component":"banner"}
+{"ip":"158.123.56.71","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"dial tcp 158.123.56.71:21: i/o timeout","error_component":"connect"}
+{"ip":"43.239.164.32","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:17882-\u003e43.239.164.32:21: i/o timeout","error_component":"banner"}
+{"ip":"95.98.171.156","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:3836-\u003e95.98.171.156:21: i/o timeout","error_component":"banner"}
+{"ip":"124.173.136.117","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:64432-\u003e124.173.136.117:21: i/o timeout","error_component":"banner"}
+{"ip":"31.21.103.230","timestamp":"2017-11-08T13:12:16-05:00","data":{},"error":"read tcp 141.212.122.96:51714-\u003e31.21.103.230:21: i/o timeout","error_component":"banner"}
+{"ip":"75.126.169.169","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"50.97.174.33","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"103.8.28.167","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 05:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"66.33.220.91","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 DreamHost FTP Server\r\n"}}
+{"ip":"58.234.158.23","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"103.195.103.181","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 16:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"174.142.57.1","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 15:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"39.115.113.146","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 rx3600 FTP server (Revision 10.0 Version wuftpd-2.6.1 Tue Nov 24 18:59:37 GMT 2015) ready.\r\n"}}
+{"ip":"213.100.154.15","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 213.100.154.15:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"50.62.46.134","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"213.174.130.75","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 DS1693-VDS04 FTP server ready.\r\n"}}
+{"ip":"72.167.21.220","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"113.23.157.198","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Welcome to KDU FTP service.\r\n"}}
+{"ip":"163.47.74.126","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 50 allowed.\r\n220-Local time is now 02:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"192.186.252.201","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"50.62.231.180","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 4 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"66.226.137.71","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 100 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 10 minutes of inactivity.\r\n"}}
+{"ip":"50.63.210.46","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 12 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"216.119.94.5","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"107.163.72.126","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"166.21.96.91","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:56958-\u003e166.21.96.91:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"192.155.81.43","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"208.106.151.171","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"550 There is no place for you to log in. Create domain for IP 208.106.151.171.\r\n"}}
+{"ip":"166.21.117.199","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:8933-\u003e166.21.117.199:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"216.147.167.63","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"192.169.213.68","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"107.186.110.217","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"161.149.1.176","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Check Point FireWall-1 Secure FTP server running on vnfw1_1\r\n"}}
+{"ip":"66.114.45.224","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 25 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"172.246.214.83","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 02:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"96.31.43.146","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220-Microsoft FTP Service\r\n220 DiscountASP.net FTP\r\n"}}
+{"ip":"121.37.17.168","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220-FileZilla Server version 0.9.41 beta\r\n"}}
+{"ip":"61.252.62.39","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 ProFTPD 1.2.9 Server (FTPD) [localhost]\r\n"}}
+{"ip":"103.76.50.240","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 500 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"115.130.17.86","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:42106-\u003e115.130.17.86:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"115.131.27.81","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:36417-\u003e115.131.27.81:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"223.6.93.120","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:9142-\u003e223.6.93.120:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"180.86.54.85","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220-FileZilla Server version 0.9.24 beta\r\n"}}
+{"ip":"208.106.234.22","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"550 There is no place for you to log in. Create domain for IP 208.106.234.22.\r\n"}}
+{"ip":"183.158.215.95","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 bftpd 2.2 at 183.158.215.95 ready."}}
+{"ip":"147.135.128.118","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 20:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"217.19.245.32","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"108.105.5.22","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:48545-\u003e108.105.5.22:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"184.206.80.196","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:15254-\u003e184.206.80.196:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"112.137.162.99","timestamp":"2017-11-08T13:12:20-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"37.187.113.64","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 37.187.113.64 FTP server ready\r\n"}}
+{"ip":"62.146.120.28","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"134.119.244.128","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 10 minutes of inactivity.\r\n"}}
+{"ip":"63.135.96.221","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"202.130.122.55","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)\r\n"}}
+{"ip":"121.198.210.69","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:57460-\u003e121.198.210.69:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"123.57.246.76","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:27131-\u003e123.57.246.76:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"194.25.172.41","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Private Server, no Anonymous Login allowed.\r\n"}}
+{"ip":"37.48.104.89","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 AP8959 Network Management Card AOS v6.1.3 FTP server ready.\r\n"}}
+{"ip":"85.214.227.206","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 ProFTPD 1.3.5b Server (ProFTPD) [85.214.227.206]\r\n"}}
+{"ip":"196.196.21.68","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"163.53.81.164","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 6.38.5) ready\r\n"}}
+{"ip":"109.69.168.114","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 ProFTPD 1.3.4a Server (netvoice.cc) [::ffff:109.69.168.114]\r\n"}}
+{"ip":"132.74.108.132","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:2656-\u003e132.74.108.132:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"147.52.242.100","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 =Welcome to School of Education/Univercity of Crete\r\n"}}
+{"ip":"52.199.248.185","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 (vsFTPd 3.0.3)\r\n"}}
+{"ip":"178.210.161.69","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 FileZilla Server version 0.9.39 beta Markum.net FTP Server\r\n"}}
+{"ip":"210.153.21.80","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"178.1.59.141","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 FRITZ!Box7362SL(UI) FTP server ready.\r\n"}}
+{"ip":"60.43.213.30","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"177.91.188.46","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 6.40.4) ready\r\n"}}
+{"ip":"212.3.169.98","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 gabriele.mele FTP server (MikroTik 6.37) ready\r\n"}}
+{"ip":"153.122.32.56","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 ProFTPD 1.3.5b Server (ProFTPD) [153.122.32.56]\r\n"}}
+{"ip":"164.46.89.217","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"190.57.230.185","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"88.1.57.45","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"203.69.123.227","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 (vsFTPd 1.2.2)\r\n"}}
+{"ip":"23.96.213.139","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"88.132.147.132","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Welcome to ASUS RT-AC66U FTP service.\r\n"}}
+{"ip":"59.157.128.225","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"85.214.143.233","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 ProFTPD 1.3.5b Server (ProFTPD) [85.214.143.233]\r\n"}}
+{"ip":"103.234.96.136","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"43.239.167.12","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"158.69.107.100","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"116.39.217.161","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 (vsFTPd 3.0.2)\r\n"}}
+{"ip":"192.99.116.108","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 500 allowed.\r\n220-Local time is now 16:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"121.199.44.180","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:12347-\u003e121.199.44.180:21: i/o timeout","error_component":"banner"}
+{"ip":"113.209.58.89","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:18894-\u003e113.209.58.89:21: i/o timeout","error_component":"banner"}
+{"ip":"41.225.75.0","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:62333-\u003e41.225.75.0:21: i/o timeout","error_component":"banner"}
+{"ip":"103.88.92.71","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:14368-\u003e103.88.92.71:21: i/o timeout","error_component":"banner"}
+{"ip":"204.41.119.108","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:36208-\u003e204.41.119.108:21: i/o timeout","error_component":"banner"}
+{"ip":"188.118.99.125","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:36269-\u003e188.118.99.125:21: i/o timeout","error_component":"banner"}
+{"ip":"203.125.167.112","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:51429-\u003e203.125.167.112:21: i/o timeout","error_component":"banner"}
+{"ip":"45.116.77.170","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220-Microsoft FTP Service\r\n"}}
+{"ip":"123.129.198.223","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:3932-\u003e123.129.198.223:21: i/o timeout","error_component":"banner"}
+{"ip":"117.221.105.124","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"dial tcp 117.221.105.124:21: i/o timeout","error_component":"connect"}
+{"ip":"86.36.67.152","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:14149-\u003e86.36.67.152:21: i/o timeout","error_component":"banner"}
+{"ip":"121.197.55.236","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:59571-\u003e121.197.55.236:21: i/o timeout","error_component":"banner"}
+{"ip":"147.127.57.237","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:47626-\u003e147.127.57.237:21: i/o timeout","error_component":"banner"}
+{"ip":"121.198.35.151","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:23340-\u003e121.198.35.151:21: i/o timeout","error_component":"banner"}
+{"ip":"85.128.224.9","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"dial tcp 85.128.224.9:21: i/o timeout","error_component":"connect"}
+{"ip":"115.47.58.9","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:47025-\u003e115.47.58.9:21: i/o timeout","error_component":"banner"}
+{"ip":"117.121.32.39","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:15551-\u003e117.121.32.39:21: i/o timeout","error_component":"banner"}
+{"ip":"178.227.177.192","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:48000-\u003e178.227.177.192:21: i/o timeout","error_component":"banner"}
+{"ip":"123.56.110.32","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:44486-\u003e123.56.110.32:21: i/o timeout","error_component":"banner"}
+{"ip":"207.163.167.75","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:37586-\u003e207.163.167.75:21: i/o timeout","error_component":"banner"}
+{"ip":"94.157.13.97","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:60126-\u003e94.157.13.97:21: i/o timeout","error_component":"banner"}
+{"ip":"206.178.214.39","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:57543-\u003e206.178.214.39:21: i/o timeout","error_component":"banner"}
+{"ip":"168.183.37.214","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:55078-\u003e168.183.37.214:21: i/o timeout","error_component":"banner"}
+{"ip":"218.36.39.219","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 (vsFTPd 2.3.5)\r\n"}}
+{"ip":"208.113.142.5","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 DreamHost FTP Server\r\n"}}
+{"ip":"208.113.241.149","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 DreamHost FTP Server\r\n"}}
+{"ip":"121.42.181.208","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:36919-\u003e121.42.181.208:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"182.92.172.217","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:60456-\u003e182.92.172.217:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"58.153.235.144","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 DiskStation FTP server ready.\r\n"}}
+{"ip":"216.92.255.42","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 www2.g3.pair.com NcFTPd Server (licensed copy) ready.\r\n"}}
+{"ip":"117.144.227.77","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 Service ready for new user.\r\n"}}
+{"ip":"174.136.55.212","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"129.207.67.72","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server Ready\r\n"}}
+{"ip":"163.30.89.214","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:9221-\u003e163.30.89.214:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"66.190.88.28","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Microsoft FTP Service\r\n"}}
+{"ip":"24.225.24.42","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"174.142.67.73","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.4c Server (ProFTPD) [174.142.67.73]\r\n"}}
+{"ip":"184.28.176.140","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Akamai Content Storage FTP Server\r\n"}}
+{"ip":"45.40.189.195","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"205.186.172.182","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 13 of 800 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"173.201.93.219","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 15 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"222.182.220.212","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 bftpd 2.2 at 222.182.220.212 ready."}}
+{"ip":"185.38.84.3","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 (vsFTPd 2.0.5)\r\n"}}
+{"ip":"107.163.72.134","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"216.119.94.137","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"67.20.81.241","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 4 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"101.109.34.82","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 5.21) ready\r\n"}}
+{"ip":"41.185.64.215","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 20:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"98.131.79.164","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (Main FTP Server) [98.131.79.164]\r\n"}}
+{"ip":"66.154.77.75","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 CyberWurx FTP\r\n"}}
+{"ip":"91.192.62.242","timestamp":"2017-11-08T13:12:20-05:00","data":{"banner":"220 Welcome to ASUS RT-AC87U FTP service.\r\n"}}
+{"ip":"115.130.242.128","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:53737-\u003e115.130.242.128:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"202.84.39.105","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"115.131.35.43","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:13749-\u003e115.131.35.43:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"159.255.209.94","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"500 OOPS: cannot locate user entry:ftpsecure\r\n"}}
+{"ip":"178.33.22.2","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"196.40.59.14","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"107.34.103.135","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:6061-\u003e107.34.103.135:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"173.108.184.98","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:35854-\u003e173.108.184.98:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"151.121.75.28","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:24948-\u003e151.121.75.28:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"80.209.252.199","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 11 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"187.245.64.7","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Warning: Ftp is not a secure protocol, and it is recommended to use Sftp.\r\n220 FTP service ready.\r\n"}}
+{"ip":"112.74.38.71","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:32973-\u003e112.74.38.71:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"59.110.4.131","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:34854-\u003e59.110.4.131:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"217.198.138.92","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"65.48.204.40","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"65.48.141.187","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"2.24.198.215","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 NASFTPD Turbo station 1.3.5a Server (ProFTPD)\r\n"}}
+{"ip":"84.199.65.143","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 BNS FTP\r\n"}}
+{"ip":"37.97.3.23","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Serv-U FTP Server v14.0 ready...\r\n"}}
+{"ip":"46.182.216.67","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5b Server ready.\r\n"}}
+{"ip":"81.169.244.207","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5b Server (ProFTPD) [81.169.244.207]\r\n"}}
+{"ip":"79.96.43.235","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Idea FTP Server 0.82 (serwer1632182.home.pl) [79.96.43.235]\r\n220 Ready\r\n"}}
+{"ip":"84.190.104.153","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Speedport W 921V FTP Server v1.44.000 ready\r\n"}}
+{"ip":"82.127.100.15","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"109.177.20.241","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"147.135.134.160","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.6rc2 Server (ProFTPD) [147.135.134.160]\r\n"}}
+{"ip":"92.243.73.154","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5 Server (Sun Solaris 9i) [92.243.73.154]\r\n"}}
+{"ip":"138.201.32.5","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5 Server (Debian) [::ffff:138.201.32.5]\r\n"}}
+{"ip":"153.92.197.33","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP-Server\r\n"}}
+{"ip":"190.43.247.45","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at ::ffff:190.43.247.45 ready."}}
+{"ip":"85.118.188.218","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"218.93.255.65","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 FTP service ready.\r\n"}}
+{"ip":"79.27.66.226","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Welcome to ASUS DSL-AC68U FTP service.\r\n"}}
+{"ip":"211.14.162.94","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"185.12.236.79","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ftp.fotki.com FTP server (Fotki Photos-thru-FTP Engine 2.3) ready.\r\n"}}
+{"ip":"41.225.79.40","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"37.59.120.9","timestamp":"2017-11-08T13:12:20-05:00","data":{"banner":"220 ProFTPD 1.3.5 Server (Debian) [::ffff:37.59.120.9]\r\n"}}
+{"ip":"66.230.197.29","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 ProFTPD 1.3.3a Server (4Admin(tm) FTP Server) [66.230.197.29]\r\n"}}
+{"ip":"150.60.194.83","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"197.162.45.13","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"182.223.117.1","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 H_SEOJUNG-U9024_10G-6_APT FTP server (Version 6.4/OpenBSD/Linux-ftpd-0.17) ready.\r\n"}}
+{"ip":"112.181.95.101","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"ftpd: applet not found\n"}}
+{"ip":"82.148.176.103","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"116.206.178.225","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:25494-\u003e116.206.178.225:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"200.199.228.146","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"109.73.228.209","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-#########################################################\r\n220-Please upload your web files to the public_html directory.\r\n220-Note that letters are case sensitive.\r\n220-#########################################################\r\n220 This is a private system - No anonymous login\r\n"}}
+{"ip":"40.122.171.14","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"206.178.93.235","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:42593-\u003e206.178.93.235:21: i/o timeout","error_component":"banner"}
+{"ip":"62.79.6.46","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"dial tcp 62.79.6.46:21: i/o timeout","error_component":"connect"}
+{"ip":"95.110.158.183","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"dial tcp 95.110.158.183:21: i/o timeout","error_component":"connect"}
+{"ip":"220.67.227.160","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"dial tcp 220.67.227.160:21: i/o timeout","error_component":"connect"}
+{"ip":"218.241.27.130","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:54534-\u003e218.241.27.130:21: i/o timeout","error_component":"banner"}
+{"ip":"103.229.180.109","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:7267-\u003e103.229.180.109:21: i/o timeout","error_component":"banner"}
+{"ip":"103.45.14.181","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:7227-\u003e103.45.14.181:21: i/o timeout","error_component":"banner"}
+{"ip":"180.43.248.79","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:49130-\u003e180.43.248.79:21: i/o timeout","error_component":"banner"}
+{"ip":"31.21.92.84","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:44377-\u003e31.21.92.84:21: i/o timeout","error_component":"banner"}
+{"ip":"124.173.148.190","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:55566-\u003e124.173.148.190:21: i/o timeout","error_component":"banner"}
+{"ip":"59.74.71.182","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:35774-\u003e59.74.71.182:21: i/o timeout","error_component":"banner"}
+{"ip":"97.75.212.64","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:63191-\u003e97.75.212.64:21: i/o timeout","error_component":"banner"}
+{"ip":"203.249.228.188","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:46007-\u003e203.249.228.188:21: i/o timeout","error_component":"banner"}
+{"ip":"202.51.2.90","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:48716-\u003e202.51.2.90:21: i/o timeout","error_component":"banner"}
+{"ip":"62.79.13.89","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"dial tcp 62.79.13.89:21: i/o timeout","error_component":"connect"}
+{"ip":"134.220.66.33","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:17117-\u003e134.220.66.33:21: i/o timeout","error_component":"banner"}
+{"ip":"179.52.19.75","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:28035-\u003e179.52.19.75:21: i/o timeout","error_component":"banner"}
+{"ip":"41.225.144.159","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:38047-\u003e41.225.144.159:21: i/o timeout","error_component":"banner"}
+{"ip":"158.199.173.162","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:54540-\u003e158.199.173.162:21: i/o timeout","error_component":"banner"}
+{"ip":"178.228.100.179","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:35215-\u003e178.228.100.179:21: i/o timeout","error_component":"banner"}
+{"ip":"41.225.183.83","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:21276-\u003e41.225.183.83:21: i/o timeout","error_component":"banner"}
+{"ip":"120.151.60.195","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"103.235.17.131","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:6788-\u003e103.235.17.131:21: i/o timeout","error_component":"banner"}
+{"ip":"83.182.253.6","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"dial tcp 83.182.253.6:21: i/o timeout","error_component":"connect"}
+{"ip":"59.152.51.253","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:40001-\u003e59.152.51.253:21: i/o timeout","error_component":"banner"}
+{"ip":"113.209.91.52","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:48462-\u003e113.209.91.52:21: i/o timeout","error_component":"banner"}
+{"ip":"203.158.3.188","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:10667-\u003e203.158.3.188:21: i/o timeout","error_component":"banner"}
+{"ip":"95.98.64.253","timestamp":"2017-11-08T13:12:17-05:00","data":{},"error":"read tcp 141.212.122.96:61166-\u003e95.98.64.253:21: i/o timeout","error_component":"banner"}
+{"ip":"42.159.198.2","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-FileZilla Server version 0.9.46 beta\r\n220-written by Tim Kosse (tim.kosse@filezilla-project.org)\r\n220 Please visit http://sourceforge.net/projects/filezilla/\r\n"}}
+{"ip":"106.254.36.118","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server 1.2.4 (FTPD)\r\n"}}
+{"ip":"222.140.5.81","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"82.165.62.71","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"71.18.22.205","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (Main FTP Server) [71.18.22.205]\r\n"}}
+{"ip":"124.232.150.7","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"216.117.7.39","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"550 No connections allowed from your IP\r\n"}}
+{"ip":"62.241.32.171","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"}}
+{"ip":"202.91.230.23","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.0.5)\r\n"}}
+{"ip":"204.109.63.35","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.4d Server ready.\r\n"}}
+{"ip":"167.246.52.176","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:5088-\u003e167.246.52.176:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"84.241.32.93","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 CDIM FTP server (MikroTik 6.35.4) ready\r\n"}}
+{"ip":"93.239.3.72","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 NAS_DETZER FTP server ready.\r\n"}}
+{"ip":"166.88.142.53","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"103.54.61.7","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"23.107.14.182","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"98.131.106.242","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (tunnel) [98.131.106.242]\r\n"}}
+{"ip":"184.168.43.167","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 13 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"160.153.91.14","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 5 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"184.168.36.228","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"118.174.196.103","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 6.34.3) ready\r\n"}}
+{"ip":"166.21.20.87","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:26450-\u003e166.21.20.87:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"192.151.231.87","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Serv-U FTP Server v6.4 for WinSock ready...\r\n"}}
+{"ip":"192.185.236.40","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 15 of 150 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"192.254.175.36","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"203.176.126.138","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:63449-\u003e203.176.126.138:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"122.171.150.196","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP server (122.171.150.196) ready.\r\n"}}
+{"ip":"216.119.80.16","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"550 There is no place for you to log in. Create domain for IP 216.119.80.16.\r\n"}}
+{"ip":"216.87.191.140","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"89.108.108.103","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.6rc2 Server (ProFTPD) [89.108.108.103]\r\n"}}
+{"ip":"81.95.247.168","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"115.131.24.240","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:29137-\u003e115.131.24.240:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"51.254.5.24","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"188.165.130.171","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (Zpanel FTP Server) [::ffff:188.165.130.171]\r\n"}}
+{"ip":"94.23.250.92","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5 Server (Debian) [::ffff:94.23.250.92]\r\n"}}
+{"ip":"185.99.134.17","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 25 allowed.\r\n220-Local time is now 18:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"217.16.196.109","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"174.156.233.115","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:27826-\u003e174.156.233.115:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"178.208.57.37","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5b Server (ProFTPD) [178.208.57.37]\r\n"}}
+{"ip":"124.229.234.159","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility\r\n"}}
+{"ip":"173.108.136.13","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:19485-\u003e173.108.136.13:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"223.7.134.12","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:4855-\u003e223.7.134.12:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"114.232.7.237","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 5.25) ready\r\n"}}
+{"ip":"47.95.145.210","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:49228-\u003e47.95.145.210:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"221.207.123.33","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP service ready.\r\n"}}
+{"ip":"182.18.151.175","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-FileZilla Server version 0.9.40 beta\r\n220-written by Tim Kosse (Tim.Kosse@gmx.de)\r\n220 Please visit http://sourceforge.net/projects/filezilla/\r\n"}}
+{"ip":"84.200.26.29","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.3e Server (ProFTPD) [84.200.26.29]\r\n"}}
+{"ip":"5.35.248.67","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5b Server (ProFTPD) [5.35.248.67]\r\n"}}
+{"ip":"94.51.0.113","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"163.172.36.30","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5d Server (ProFTPD) [163.172.36.30]\r\n"}}
+{"ip":"165.227.128.124","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 3.0.2)\r\n"}}
+{"ip":"125.118.251.162","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 125.118.251.162 ready."}}
+{"ip":"46.242.194.26","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Idea FTP Server 0.82 (serwer1785511.home.pl) [46.242.194.26]\r\n220 Ready\r\n"}}
+{"ip":"185.15.22.83","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"170.104.47.252","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:14610-\u003e170.104.47.252:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"82.211.34.8","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 [root124.premium-rootserver.net] i-MSCP FTP server.\r\n"}}
+{"ip":"123.56.92.107","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:56293-\u003e123.56.92.107:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"193.93.78.28","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 MikroTik-Rockwool FTP server (MikroTik 6.40.3) ready\r\n"}}
+{"ip":"37.228.91.181","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-FileZilla Server 0.9.60 beta\r\n220-written by Tim Kosse (tim.kosse@filezilla-project.org)\r\n220 Please visit https://filezilla-project.org/\r\n"}}
+{"ip":"124.119.193.23","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 124.119.193.23 ready."}}
+{"ip":"159.253.32.99","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 21:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"93.219.205.189","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 DiskStation FTP server ready.\r\n"}}
+{"ip":"92.42.38.141","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"89.219.221.8","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"dial tcp 89.219.221.8:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"118.4.22.165","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 sum-led ready...\r\n"}}
+{"ip":"181.113.28.94","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 \r\n"}}
+{"ip":"180.14.200.7","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.0.7)\r\n"}}
+{"ip":"150.60.188.136","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"109.168.84.214","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [192.168.112.2]\r\n"}}
+{"ip":"67.98.167.190","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"36.109.220.198","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 36.109.220.198 ready."}}
+{"ip":"191.55.148.140","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"196.202.139.221","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP service ready.\r\n"}}
+{"ip":"173.83.18.151","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (Main FTP Server) [173.83.18.151]\r\n"}}
+{"ip":"149.47.160.150","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"1.215.132.142","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 leeyangsu_3287587 FTP server ready.\r\n"}}
+{"ip":"98.131.3.170","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Microsoft FTP Service\r\n"}}
+{"ip":"37.12.220.29","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 ProFTPD 1.3.4b Server (Siemens Switzerland Ltd.) [192.168.1.55]\r\n"}}
+{"ip":"204.187.16.196","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:44119-\u003e204.187.16.196:21: i/o timeout","error_component":"banner"}
+{"ip":"113.209.98.86","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:58151-\u003e113.209.98.86:21: i/o timeout","error_component":"banner"}
+{"ip":"60.2.121.93","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP service ready.\r\n"}}
+{"ip":"147.228.78.3","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:53015-\u003e147.228.78.3:21: i/o timeout","error_component":"banner"}
+{"ip":"62.79.126.253","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:61121-\u003e62.79.126.253:21: i/o timeout","error_component":"banner"}
+{"ip":"124.194.228.145","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 CHATAN-8124-1 FTP server ready.\r\n"}}
+{"ip":"66.175.51.79","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 66.175.51.79:21: i/o timeout","error_component":"connect"}
+{"ip":"123.183.209.61","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:58070-\u003e123.183.209.61:21: i/o timeout","error_component":"banner"}
+{"ip":"223.206.96.138","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 223.206.96.138:21: i/o timeout","error_component":"connect"}
+{"ip":"89.46.199.220","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 89.46.199.220:21: i/o timeout","error_component":"connect"}
+{"ip":"62.79.220.163","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 62.79.220.163:21: i/o timeout","error_component":"connect"}
+{"ip":"83.176.82.40","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 83.176.82.40:21: i/o timeout","error_component":"connect"}
+{"ip":"194.27.8.241","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:24861-\u003e194.27.8.241:21: i/o timeout","error_component":"banner"}
+{"ip":"113.209.10.104","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:35547-\u003e113.209.10.104:21: i/o timeout","error_component":"banner"}
+{"ip":"213.219.148.175","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:24062-\u003e213.219.148.175:21: i/o timeout","error_component":"banner"}
+{"ip":"114.80.79.199","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 114.80.79.199:21: i/o timeout","error_component":"connect"}
+{"ip":"95.99.158.202","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:50117-\u003e95.99.158.202:21: i/o timeout","error_component":"banner"}
+{"ip":"194.6.0.84","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:53476-\u003e194.6.0.84:21: i/o timeout","error_component":"banner"}
+{"ip":"188.118.71.213","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:3394-\u003e188.118.71.213:21: i/o timeout","error_component":"banner"}
+{"ip":"219.227.154.118","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:41849-\u003e219.227.154.118:21: i/o timeout","error_component":"banner"}
+{"ip":"89.22.236.142","timestamp":"2017-11-08T13:12:20-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"103.58.100.121","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"113.21.98.130","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"117.8.76.195","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility\r\n"}}
+{"ip":"189.24.226.253","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"85.128.197.15","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220 FTP server ready\r\n"}}
+{"ip":"96.9.1.98","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"192.185.93.226","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 150 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"95.134.32.163","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"163.220.243.82","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 3.0.2)\r\n"}}
+{"ip":"108.168.7.114","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Welcome to TP-LINK FTP server\r\n"}}
+{"ip":"198.58.118.12","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"27.124.117.42","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 50 allowed.\r\n220-Local time is now 02:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"64.64.24.77","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"83.22.106.125","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Welcome to the vsftp daemon.\r\n"}}
+{"ip":"192.238.253.202","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"162.251.166.46","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"23.88.58.217","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"50.63.209.17","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 5 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"50.62.38.53","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 7 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"208.84.114.28","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"2.60.181.222","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP server ready.\r\n"}}
+{"ip":"198.1.87.32","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"104.203.2.125","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"162.144.56.249","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"121.225.21.197","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Welcome to Linksys03000\r\n"}}
+{"ip":"107.148.251.38","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- \ufffd\ufffdӭ\ufffd\ufffd\ufffd\ufffd Pure-FTPd [privsep] ----------\r\n220-\ufffd\ufffd\ufffdǵ\ufffd 1 \ufffd\ufffdʹ\ufffd\ufffd\ufffdߣ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdɴ\ufffd 50 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\r\n220-\ufffd\ufffd\ufffdڱ\ufffd\ufffd\ufffdʱ\ufffd\ufffd\ufffd\ufffd 02:11\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd˿ڣ\ufffd 21\ufffd\ufffd\r\n220-\ufffd\ufffd\ufffd\ufffd˽\ufffd\ufffdϵͳ - \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd¼\r\n220-\ufffdⲿ\ufffd\ufffd\ufffd\ufffdҲ\ufffd\ufffdӭIPv6\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\r\n220 \ufffd\ufffd 15 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffdû\ufffdл\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdߡ\ufffd\r\n"}}
+{"ip":"198.211.126.202","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.4a Server (Bruggelokaal) [::ffff:198.211.126.202]\r\n"}}
+{"ip":"161.149.135.35","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Check Point FireWall-1 Secure FTP server running on vnfw1_1\r\n"}}
+{"ip":"159.253.139.202","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"139.162.244.29","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:19. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"223.6.83.210","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:46097-\u003e223.6.83.210:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"84.18.212.164","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"5.135.23.52","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"123.56.78.114","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:49753-\u003e123.56.78.114:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"91.134.180.94","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"171.25.229.169","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"109.239.52.242","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 10 minutes of inactivity.\r\n"}}
+{"ip":"54.36.19.105","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"46.243.158.2","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"103.21.59.66","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 150 allowed.\r\n220-Local time is now 18:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 5 minutes of inactivity.\r\n"}}
+{"ip":"174.154.65.153","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:31294-\u003e174.154.65.153:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"173.127.153.130","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:11167-\u003e173.127.153.130:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"185.130.207.48","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 20:11. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"120.43.107.216","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility\r\n"}}
+{"ip":"59.175.41.94","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 59.175.41.94 ready."}}
+{"ip":"124.234.240.158","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 124.234.240.158 ready."}}
+{"ip":"123.169.36.253","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 123.169.36.253 ready."}}
+{"ip":"82.96.95.169","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"156.54.29.161","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-FileZilla Server 0.9.53 beta\r\n220-written by Tim Kosse (tim.kosse@filezilla-project.org)\r\n220 Please visit https://filezilla-project.org/\r\n"}}
+{"ip":"85.94.209.119","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.4a Server (Debian) [85.94.209.119]\r\n"}}
+{"ip":"219.92.119.102","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"dial tcp 219.92.119.102:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"188.128.216.204","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Idea FTP Server 0.82 (localhost) [188.128.216.204]\r\n220 Ready\r\n"}}
+{"ip":"111.75.216.49","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 3.0.2)\r\n"}}
+{"ip":"188.128.178.95","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Idea FTP Server 0.82 (serwer1777177.home.pl) [188.128.178.95]\r\n220 Ready\r\n"}}
+{"ip":"78.24.190.70","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-FileZilla Server 0.9.59 beta\r\n220-written by Tim Kosse (tim.kosse@filezilla-project.org)\r\n220 Please visit https://filezilla-project.org/\r\n"}}
+{"ip":"122.5.99.238","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 122.5.99.238 ready."}}
+{"ip":"82.127.19.148","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"217.160.182.159","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.6rc2 Server (ProFTPD) [217.160.182.159]\r\n"}}
+{"ip":"91.189.171.93","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"109.94.226.59","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ppzlatica FTP server (MikroTik 5.2) ready\r\n"}}
+{"ip":"91.217.254.145","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"213.33.151.165","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 3.0.3)\r\n"}}
+{"ip":"181.196.132.119","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 \r\n"}}
+{"ip":"109.232.104.249","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 exnet-juniper FTP server (Version 6.00LS) ready.\r\n"}}
+{"ip":"1.33.181.234","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 1.33.181.234 FTP server ready.\r\n"}}
+{"ip":"124.241.64.20","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"60.43.213.58","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"115.146.57.54","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"83.43.64.217","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"154.34.36.45","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Server Ready\r\n"}}
+{"ip":"46.223.78.18","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FRITZ!Box6360Cable(kbw) FTP server ready.\r\n"}}
+{"ip":"177.53.42.16","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 6.38.5) ready\r\n"}}
+{"ip":"201.47.232.78","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"193.239.214.50","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"500 Sorry, no server available to handle request on 10.205.86.50.\r\n"}}
+{"ip":"106.252.151.102","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"103.60.58.106","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:31963-\u003e103.60.58.106:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"50.28.56.161","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"208.100.31.215","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"192.99.221.89","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"111.67.4.46","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 04:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"144.217.19.20","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 6 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"144.139.41.192","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD Server (NETGEAR ReadyNAS) [::ffff:192.168.0.100]\r\n"}}
+{"ip":"213.4.97.150","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 213.4.97.150:21: i/o timeout","error_component":"connect"}
+{"ip":"104.232.71.49","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:41495-\u003e104.232.71.49:21: i/o timeout","error_component":"banner"}
+{"ip":"185.23.21.196","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 185.23.21.196:21: i/o timeout","error_component":"connect"}
+{"ip":"58.30.236.71","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:57800-\u003e58.30.236.71:21: i/o timeout","error_component":"banner"}
+{"ip":"83.177.68.54","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 83.177.68.54:21: i/o timeout","error_component":"connect"}
+{"ip":"43.248.96.0","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:62099-\u003e43.248.96.0:21: i/o timeout","error_component":"banner"}
+{"ip":"203.82.30.158","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:17577-\u003e203.82.30.158:21: i/o timeout","error_component":"banner"}
+{"ip":"98.131.21.157","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-Microsoft FTP Service\r\n"}}
+{"ip":"37.199.48.75","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 37.199.48.75:21: i/o timeout","error_component":"connect"}
+{"ip":"103.195.117.238","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:56782-\u003e103.195.117.238:21: i/o timeout","error_component":"banner"}
+{"ip":"134.91.78.217","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:62769-\u003e134.91.78.217:21: i/o timeout","error_component":"banner"}
+{"ip":"69.162.250.212","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:53144-\u003e69.162.250.212:21: i/o timeout","error_component":"banner"}
+{"ip":"31.21.10.187","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:22184-\u003e31.21.10.187:21: i/o timeout","error_component":"banner"}
+{"ip":"180.42.155.74","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:56915-\u003e180.42.155.74:21: i/o timeout","error_component":"banner"}
+{"ip":"159.238.58.129","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:11210-\u003e159.238.58.129:21: i/o timeout","error_component":"banner"}
+{"ip":"43.240.239.179","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:20880-\u003e43.240.239.179:21: i/o timeout","error_component":"banner"}
+{"ip":"96.11.49.27","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-Microsoft FTP Service\r\n"}}
+{"ip":"50.6.138.49","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (legacy) [50.6.138.49]\r\n"}}
+{"ip":"173.239.10.229","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-caribewww2.webair.com NcFTPd Server (licensed copy) ready.\r\n"}}
+{"ip":"74.91.167.110","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (pwr2ya) [74.91.167.110]\r\n"}}
+{"ip":"123.116.246.227","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-FTP server ready.\r\n220 This is a private system - No anonymous login\r\n"}}
+{"ip":"118.193.189.177","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"96.9.59.97","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 13 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"45.63.3.72","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"69.60.164.203","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (brettonwoods.com) [::ffff:69.60.164.203]\r\n"}}
+{"ip":"192.185.195.81","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 150 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"121.127.240.26","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.4b Server ready.\r\n"}}
+{"ip":"173.83.0.244","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (Main FTP Server) [173.83.0.244]\r\n"}}
+{"ip":"174.20.201.20","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"107.149.223.243","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"103.1.43.80","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Microsoft FTP Service\r\n"}}
+{"ip":"50.63.82.127","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 11 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"208.109.202.94","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"174.127.104.156","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 50 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"123.60.120.42","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"50.62.239.194","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 6 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"123.60.40.225","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"23.225.69.100","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FileZilla Server version 0.9.41 beta written by Tim Kosse (Tim.Kosse@gmx.de) Please visit http://sourceforge.\r\n"}}
+{"ip":"122.200.203.235","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"107.179.64.31","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Serv-U FTP Server v6.4 for WinSock ready...\r\n"}}
+{"ip":"74.220.194.170","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"50.87.193.209","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"67.199.73.215","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"550 There is no place for you to log in. Create domain for IP 67.199.73.215.\r\n"}}
+{"ip":"162.144.185.110","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"103.27.86.164","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"216.152.198.195","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"550 There is no place for you to log in. Create domain for IP 216.152.198.195.\r\n"}}
+{"ip":"78.153.148.136","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Welcome to vsFTPd Server, managed by EHCP (Easy Hosting Control Panel, www.ehcp.net )\r\n"}}
+{"ip":"106.245.96.210","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.2.9 Server (FTPD) [localhost]\r\n"}}
+{"ip":"98.202.147.23","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Welcome to ASUS RT-N56U FTP service.\r\n"}}
+{"ip":"14.169.220.208","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"68.177.157.1","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:61150-\u003e68.177.157.1:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"178.33.113.53","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-FTP Service Is Ready\r\n220 This is a private system - No anonymous login\r\n"}}
+{"ip":"91.134.177.236","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 18:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"158.199.168.70","timestamp":"2017-11-08T13:12:20-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"134.35.76.147","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Damj FTP server (MikroTik 6.38.1) ready\r\n"}}
+{"ip":"182.92.5.248","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:37784-\u003e182.92.5.248:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"166.166.127.224","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP Server Ready\r\n"}}
+{"ip":"83.223.101.253","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 25 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"109.171.77.63","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 109.171.77.63:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"112.125.167.192","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:49754-\u003e112.125.167.192:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"78.135.29.50","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"182.61.36.56","timestamp":"2017-11-08T13:12:21-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 02:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"89.219.43.205","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"186.46.216.222","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 MONICA_MOLINA_2483221 FTP server (MikroTik 6.29.1) ready\r\n"}}
+{"ip":"181.211.207.96","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 181.211.207.96 ready."}}
+{"ip":"150.145.37.48","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 IAMC-Storage4 FTP server ready.\r\n"}}
+{"ip":"201.192.100.193","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"101.200.195.75","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:43300-\u003e101.200.195.75:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"122.235.128.61","timestamp":"2017-11-08T13:12:19-05:00","data":{"banner":"220 bftpd 2.2 at 122.235.128.61 ready."}}
+{"ip":"181.64.29.137","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at ::ffff:181.64.29.137 ready."}}
+{"ip":"80.75.252.61","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD 1.3.4a Server (wwwl4.stone-rich.at) [::ffff:80.75.252.61]\r\n"}}
+{"ip":"27.224.9.144","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 bftpd 2.2 at 27.224.9.144 ready."}}
+{"ip":"133.130.66.53","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 03:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"193.178.250.237","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"You are not welcome to use ftpd from researchscan351.eecs.umich.edu.\n"}}
+{"ip":"185.86.167.51","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"210.188.253.10","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 www12b.dns.ne.jp FTP server (Version 6.00LS) ready.\r\n"}}
+{"ip":"37.230.107.150","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 21:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"194.184.29.97","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Inactivity timer = 120 seconds. Use 'site idle \u003csecs\u003e' to change.\r\n"}}
+{"ip":"105.102.201.25","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"121.198.185.157","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:18741-\u003e121.198.185.157:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"123.28.164.227","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP server (192.168.1.1) ready.\r\n"}}
+{"ip":"128.199.164.141","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 (vsFTPd 3.0.2)\r\n"}}
+{"ip":"207.63.198.24","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"202.117.3.11","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 (vsFTPd 2.0.5)\r\n"}}
+{"ip":"37.60.231.6","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-#########################################################\r\n220-Please upload your web files to the public_html directory.\r\n220-Note that letters are case sensitive.\r\n220 #########################################################\r\n"}}
+{"ip":"67.225.240.116","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"103.63.225.234","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 sv253.mngsystem.com FTP server (Version 6.00LS) ready.\r\n"}}
+{"ip":"47.90.21.118","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:64863-\u003e47.90.21.118:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"61.102.234.238","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ipTIME_FTPD 1.3.4d Server (ipTIME A2004NS-653921) [192.168.0.1]\r\n"}}
+{"ip":"141.219.29.173","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:17252-\u003e141.219.29.173:21: i/o timeout","error_component":"banner"}
+{"ip":"115.47.0.240","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:11759-\u003e115.47.0.240:21: i/o timeout","error_component":"banner"}
+{"ip":"45.120.54.77","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:31992-\u003e45.120.54.77:21: i/o timeout","error_component":"banner"}
+{"ip":"136.227.207.76","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:59558-\u003e136.227.207.76:21: i/o timeout","error_component":"banner"}
+{"ip":"190.144.162.75","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:39881-\u003e190.144.162.75:21: i/o timeout","error_component":"banner"}
+{"ip":"146.148.156.174","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:36738-\u003e146.148.156.174:21: i/o timeout","error_component":"banner"}
+{"ip":"112.30.128.192","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:41103-\u003e112.30.128.192:21: i/o timeout","error_component":"banner"}
+{"ip":"202.151.7.223","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:4905-\u003e202.151.7.223:21: i/o timeout","error_component":"banner"}
+{"ip":"95.98.161.128","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:45082-\u003e95.98.161.128:21: i/o timeout","error_component":"banner"}
+{"ip":"117.248.106.185","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 117.248.106.185:21: i/o timeout","error_component":"connect"}
+{"ip":"94.157.156.208","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:33372-\u003e94.157.156.208:21: i/o timeout","error_component":"banner"}
+{"ip":"95.98.235.200","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:64804-\u003e95.98.235.200:21: i/o timeout","error_component":"banner"}
+{"ip":"39.109.26.26","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:26360-\u003e39.109.26.26:21: i/o timeout","error_component":"banner"}
+{"ip":"180.95.147.47","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 180.95.147.47:21: i/o timeout","error_component":"connect"}
+{"ip":"95.247.8.186","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 95.247.8.186:21: i/o timeout","error_component":"connect"}
+{"ip":"199.212.225.214","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:33459-\u003e199.212.225.214:21: i/o timeout","error_component":"banner"}
+{"ip":"83.186.162.80","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"dial tcp 83.186.162.80:21: i/o timeout","error_component":"connect"}
+{"ip":"47.89.25.133","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:20032-\u003e47.89.25.133:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"147.127.61.83","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:38482-\u003e147.127.61.83:21: i/o timeout","error_component":"banner"}
+{"ip":"210.189.175.14","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:56023-\u003e210.189.175.14:21: i/o timeout","error_component":"banner"}
+{"ip":"117.79.233.152","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:4638-\u003e117.79.233.152:21: i/o timeout","error_component":"banner"}
+{"ip":"204.41.48.78","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:30978-\u003e204.41.48.78:21: i/o timeout","error_component":"banner"}
+{"ip":"178.135.147.102","timestamp":"2017-11-08T13:12:18-05:00","data":{},"error":"read tcp 141.212.122.96:34450-\u003e178.135.147.102:21: i/o timeout","error_component":"banner"}
+{"ip":"175.171.38.238","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP service ready.\r\n"}}
+{"ip":"52.76.12.69","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Welcome to blah FTP service.\r\n"}}
+{"ip":"216.92.249.154","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ftp533.pair.com NcFTPd Server (licensed copy) ready.\r\n"}}
+{"ip":"192.199.253.221","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"218.26.197.197","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP service ready.\r\n"}}
+{"ip":"76.12.68.249","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Serv-U FTP Server v6.2 for WinSock ready...\r\n"}}
+{"ip":"199.231.231.154","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"103.76.231.62","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 150 allowed.\r\n220-Local time is now 18:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 5 minutes of inactivity.\r\n"}}
+{"ip":"118.189.98.64","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"207.140.1.56","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"68.194.153.125","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Welcome to ASUS RT-N66R FTP service.\r\n"}}
+{"ip":"134.73.16.230","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Serv-U FTP Server v6.4 for WinSock ready...\r\n"}}
+{"ip":"202.82.83.34","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP01DMZ FTP server ready.\r\n"}}
+{"ip":"219.83.125.170","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Welcome\r\n"}}
+{"ip":"66.226.149.84","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 100 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 10 minutes of inactivity.\r\n"}}
+{"ip":"123.30.143.19","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Welcome to sim.maychu.net!\r\n"}}
+{"ip":"154.0.165.59","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 20:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"87.106.196.99","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"50.87.224.239","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"50.87.19.19","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 3 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"173.254.63.132","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 16 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"50.87.138.160","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"107.183.73.141","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Serv-U FTP Server v6.4 for WinSock ready...\r\n"}}
+{"ip":"192.163.200.168","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"95.233.136.59","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD 1.3.4a Server (ProFTPD) [::ffff:192.168.1.50]\r\n"}}
+{"ip":"74.82.132.99","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Software FTP server ready.\r\n"}}
+{"ip":"31.162.205.109","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP server ready.\r\n"}}
+{"ip":"120.26.93.155","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:11801-\u003e120.26.93.155:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"120.192.190.202","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP service ready.\r\n"}}
+{"ip":"184.206.60.94","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:56771-\u003e184.206.60.94:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"150.120.175.229","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:12251-\u003e150.120.175.229:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.156.23.114","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:56719-\u003e174.156.23.114:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"70.12.114.179","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:49776-\u003e70.12.114.179:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.156.15.169","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:52571-\u003e174.156.15.169:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"87.98.229.127","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 20:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"128.106.130.44","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"174.155.19.27","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:36335-\u003e174.155.19.27:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"121.227.73.48","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 3.8 at 121.227.73.48 ready."}}
+{"ip":"120.77.13.246","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:6817-\u003e120.77.13.246:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"109.70.2.173","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"193.70.47.128","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 193.70.47.128 FTP server ready\r\n"}}
+{"ip":"111.178.52.58","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 111.178.52.58 ready."}}
+{"ip":"77.68.85.220","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"91.236.26.177","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Serv-U FTP Server v15.1 ready...\r\n"}}
+{"ip":"185.130.224.167","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"217.21.68.104","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"182.43.201.35","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 182.43.201.35 ready."}}
+{"ip":"217.21.68.72","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"223.9.211.80","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 223.9.211.80 ready."}}
+{"ip":"134.119.94.145","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 10 minutes of inactivity.\r\n"}}
+{"ip":"171.43.194.147","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 171.43.194.147 ready."}}
+{"ip":"170.104.82.15","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:63672-\u003e170.104.82.15:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"207.154.194.144","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 (vsFTPd 3.0.3)\r\n"}}
+{"ip":"158.199.130.67","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"91.202.101.13","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"79.96.174.49","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-Idea FTP Server 0.82 (localhost) [79.96.174.49]\r\n220 Ready\r\n"}}
+{"ip":"5.190.70.246","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"89.161.243.252","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-Idea FTP Server 0.82 (serwer1636883.home.pl) [89.161.243.252]\r\n220 Ready\r\n"}}
+{"ip":"78.47.147.13","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"93.114.248.143","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 50 allowed.\r\n220-Local time is now 20:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"79.237.66.93","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FRITZ!Box7430 FTP server ready.\r\n"}}
+{"ip":"182.92.184.71","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:2152-\u003e182.92.184.71:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"45.119.166.76","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 sv236.mngsystem.com FTP server (Version 6.00LS) ready.\r\n"}}
+{"ip":"210.129.168.131","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"421 Service not available.\r\n"}}
+{"ip":"77.26.65.247","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Ftp firmware update utility\r\n"}}
+{"ip":"91.189.36.78","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD Server ready.\r\n"}}
+{"ip":"83.176.104.242","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 83.176.104.242:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"41.225.158.2","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"210.59.15.3","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220-FileZilla Server version 0.9.36 beta\r\n220-written by Tim Kosse (Tim.Kosse@gmx.de)\r\n220 Please visit http://sourceforge.net/projects/filezilla/\r\n"}}
+{"ip":"180.37.248.178","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"64.71.35.248","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Welcome.\r\n"}}
+{"ip":"200.127.24.24","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 _Faillover_SWITCHADO_ FTP server (MikroTik 5.26) ready\r\n"}}
+{"ip":"180.67.94.24","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ipTIME_FTPD 1.3.4d Server (ipTIME A3004NS Dual-BD5755) [192.168.0.1] UTF-8\r\n"}}
+{"ip":"72.52.150.9","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 13:12. Server port: 21.\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"112.125.140.206","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:36926-\u003e112.125.140.206:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"37.199.87.10","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 37.199.87.10:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"149.56.82.222","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 15:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"184.175.109.226","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"204.41.182.228","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"dial tcp 204.41.182.228:21: i/o timeout","error_component":"connect"}
+{"ip":"178.228.119.78","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:6611-\u003e178.228.119.78:21: i/o timeout","error_component":"banner"}
+{"ip":"174.53.84.52","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:56500-\u003e174.53.84.52:21: i/o timeout","error_component":"banner"}
+{"ip":"220.158.244.100","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:32163-\u003e220.158.244.100:21: i/o timeout","error_component":"banner"}
+{"ip":"211.71.87.184","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:56643-\u003e211.71.87.184:21: i/o timeout","error_component":"banner"}
+{"ip":"199.197.111.210","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:52804-\u003e199.197.111.210:21: i/o timeout","error_component":"banner"}
+{"ip":"5.26.168.247","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:28974-\u003e5.26.168.247:21: i/o timeout","error_component":"banner"}
+{"ip":"132.74.152.81","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:64492-\u003e132.74.152.81:21: i/o timeout","error_component":"banner"}
+{"ip":"124.173.139.130","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:31466-\u003e124.173.139.130:21: i/o timeout","error_component":"banner"}
+{"ip":"8.40.0.87","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:12109-\u003e8.40.0.87:21: i/o timeout","error_component":"banner"}
+{"ip":"134.220.247.195","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:27446-\u003e134.220.247.195:21: i/o timeout","error_component":"banner"}
+{"ip":"80.91.9.135","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:52054-\u003e80.91.9.135:21: i/o timeout","error_component":"banner"}
+{"ip":"187.18.94.100","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:52603-\u003e187.18.94.100:21: i/o timeout","error_component":"banner"}
+{"ip":"83.180.204.71","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"dial tcp 83.180.204.71:21: i/o timeout","error_component":"connect"}
+{"ip":"118.149.61.142","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:24960-\u003e118.149.61.142:21: i/o timeout","error_component":"banner"}
+{"ip":"121.156.152.245","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 JSsNAS FTP server ready.\r\n"}}
+{"ip":"71.18.122.44","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 ProFTPD 1.3.3g Server (Main FTP Server) [71.18.122.44]\r\n"}}
+{"ip":"209.43.92.252","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"209.99.43.27","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"50.107.91.202","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"172.93.100.18","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"216.147.8.170","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 ProFTPD 1.2.9 Server (ProFTPD Default Installation) [host.pageimpact.com]\r\n"}}
+{"ip":"103.43.14.85","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"107.148.32.221","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"151.235.151.135","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"113.121.86.136","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 113.121.86.136 ready."}}
+{"ip":"216.116.23.179","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 (vsFTPd 2.1.2)\r\n"}}
+{"ip":"192.151.214.85","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"151.236.62.42","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 ProFTPD 1.3.4a Server (151.236.62.42) [::ffff:151.236.62.42]\r\n"}}
+{"ip":"23.229.248.145","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 13 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"123.60.113.175","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 (vsFTPd 2.2.2)\r\n"}}
+{"ip":"166.25.159.213","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:34719-\u003e166.25.159.213:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"50.62.120.64","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 6 of 500 allowed.\r\n220-Local time is now 11:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220 You will be disconnected after 3 minutes of inactivity.\r\n"}}
+{"ip":"74.82.47.229","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220-FileZilla Server 0.9.60 beta\r\n220-written by Tim Kosse (tim.kosse@filezilla-project.org)\r\n220 Please visit https://filezilla-project.org/\r\n"}}
+{"ip":"209.200.127.111","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"550 There is no place for you to log in. Create domain for IP 209.200.127.111.\r\n"}}
+{"ip":"162.144.158.22","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"173.254.76.83","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 1000 allowed.\r\n220-Local time is now 12:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"218.252.250.63","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Welcome to TP-LINK FTP server\r\n"}}
+{"ip":"121.197.68.85","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:16942-\u003e121.197.68.85:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"5.196.71.158","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 ProFTPD 1.3.5 Server (Debian) [::ffff:5.196.71.158]\r\n"}}
+{"ip":"174.154.236.79","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:35650-\u003e174.154.236.79:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"115.130.152.126","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:57172-\u003e115.130.152.126:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"120.35.10.157","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Serv-U FTP Server v15.0 ready...\r\n"}}
+{"ip":"188.165.125.161","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 2 of 50 allowed.\r\n220-Local time is now 19:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"112.124.185.71","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:36314-\u003e112.124.185.71:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"60.249.66.253","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 NASFTPD Turbo station 1.3.5a Server (ProFTPD) [172.16.196.199]\r\n"}}
+{"ip":"188.166.26.157","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Welcome to the ftp service\r\n"}}
+{"ip":"204.73.201.90","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 ProFTPD 1.2.10 Server (Debian) [204.73.201.90]\r\n"}}
+{"ip":"84.226.225.253","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 FRITZ!BoxFonWLAN7390 FTP server ready.\r\n"}}
+{"ip":"217.27.89.197","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220-FileZilla Server version 0.9.49 beta\r\n220-written by Tim Kosse (tim.kosse@filezilla-project.org)\r\n220 Please visit https://filezilla-project.org/\r\n"}}
+{"ip":"223.6.158.203","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:7724-\u003e223.6.158.203:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"220.176.43.15","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 220.176.43.15 ready."}}
+{"ip":"77.192.138.53","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 DiskStation_216 FTP server ready.\r\n"}}
+{"ip":"118.123.242.160","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Serv-U FTP Server v6.3 for WinSock ready...\r\n"}}
+{"ip":"83.238.183.210","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 NOXAN_SYNOLOGY FTP server ready.\r\n"}}
+{"ip":"78.35.223.158","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 DiskStation FTP server ready.\r\n"}}
+{"ip":"192.165.171.246","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 20:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 25 minutes of inactivity.\r\n"}}
+{"ip":"89.161.159.206","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220-Idea FTP Server 0.82 (localhost) [89.161.159.206]\r\n220 Ready\r\n"}}
+{"ip":"222.247.40.27","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:29961-\u003e222.247.40.27:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"113.121.106.169","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 bftpd 2.2 at 113.121.106.169 ready."}}
+{"ip":"199.167.44.40","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 14:12. Server port: 21.\r\n220-This is a private system - No anonymous login\r\n220-IPv6 connections are also welcome on this server.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"186.121.199.62","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"91.51.29.214","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 FRITZ!BoxFonWLAN7390 FTP server ready.\r\n"}}
+{"ip":"87.216.165.58","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"212.64.171.250","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 VxWorks (VxWorks5.4.2) FTP server ready\r\n"}}
+{"ip":"82.114.71.162","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 5.25) ready\r\n"}}
+{"ip":"89.173.28.21","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Test router FTP server (MikroTik 6.39.2) ready\r\n"}}
+{"ip":"95.143.136.165","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 k-9110602818 FTP server (MikroTik 5.14) ready\r\n"}}
+{"ip":"61.249.26.211","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"ERROR :Closing Link: [141.212.122.96] (Throttled: Reconnecting too fast) -Email aa@aa.com for more information.\r\n"}}
+{"ip":"83.52.147.70","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"122.1.225.148","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"80.239.202.169","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220-For authenticated access:\r\n Please enter your SolvNet username and password.\r\n"}}
+{"ip":"87.229.64.189","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 ZN-18748_KOMETA99Zrt. FTP server (MikroTik 6.38.1) ready\r\n"}}
+{"ip":"123.205.31.218","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 FTP version 1.0\r\n"}}
+{"ip":"114.142.244.146","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"150.60.18.145","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"52.220.197.57","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220-FileZilla Server 0.9.55 beta\r\n220-Welcome to Tribe FTP server.\r\n220 Illegitimi non carborundum\r\n"}}
+{"ip":"130.231.72.94","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:35778-\u003e130.231.72.94:21: i/o timeout","error_component":"banner"}
+{"ip":"41.225.62.241","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:55288-\u003e41.225.62.241:21: i/o timeout","error_component":"banner"}
+{"ip":"84.254.159.5","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:59167-\u003e84.254.159.5:21: i/o timeout","error_component":"banner"}
+{"ip":"114.215.51.144","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"dial tcp 114.215.51.144:21: i/o timeout","error_component":"connect"}
+{"ip":"156.17.230.151","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:60705-\u003e156.17.230.151:21: i/o timeout","error_component":"banner"}
+{"ip":"66.18.80.247","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:46053-\u003e66.18.80.247:21: i/o timeout","error_component":"banner"}
+{"ip":"113.207.121.221","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:11452-\u003e113.207.121.221:21: i/o timeout","error_component":"banner"}
+{"ip":"200.37.130.26","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:4714-\u003e200.37.130.26:21: i/o timeout","error_component":"banner"}
+{"ip":"31.170.165.199","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"dial tcp 31.170.165.199:21: i/o timeout","error_component":"connect"}
+{"ip":"134.220.160.217","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:39404-\u003e134.220.160.217:21: i/o timeout","error_component":"banner"}
+{"ip":"141.9.255.174","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:22617-\u003e141.9.255.174:21: i/o timeout","error_component":"banner"}
+{"ip":"86.36.87.49","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:50507-\u003e86.36.87.49:21: i/o timeout","error_component":"banner"}
+{"ip":"59.174.50.42","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:40945-\u003e59.174.50.42:21: i/o timeout","error_component":"banner"}
+{"ip":"62.79.169.25","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:40863-\u003e62.79.169.25:21: i/o timeout","error_component":"banner"}
+{"ip":"221.229.173.234","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:18880-\u003e221.229.173.234:21: i/o timeout","error_component":"banner"}
+{"ip":"175.145.56.152","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"dial tcp 175.145.56.152:21: i/o timeout","error_component":"connect"}
+{"ip":"186.154.129.145","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"dial tcp 186.154.129.145:21: i/o timeout","error_component":"connect"}
+{"ip":"139.190.207.129","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:32847-\u003e139.190.207.129:21: i/o timeout","error_component":"banner"}
+{"ip":"144.89.104.101","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:8666-\u003e144.89.104.101:21: i/o timeout","error_component":"banner"}
+{"ip":"141.64.170.145","timestamp":"2017-11-08T13:12:19-05:00","data":{},"error":"read tcp 141.212.122.96:46984-\u003e141.64.170.145:21: i/o timeout","error_component":"banner"}
+{"ip":"113.10.145.252","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 FTP Server ready...\r\n"}}
+{"ip":"103.27.145.80","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 sv355.mngsystem.com FTP server (Version 6.00LS) ready.\r\n"}}
+{"ip":"202.29.83.137","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:58522-\u003e202.29.83.137:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"223.9.180.75","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 bftpd 2.2 at 223.9.180.75 ready."}}
+{"ip":"103.214.200.234","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 6.37.5) ready\r\n"}}
+{"ip":"176.51.206.58","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 (vsFTPd 2.3.2)\r\n"}}
+{"ip":"199.135.57.218","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:14768-\u003e199.135.57.218:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"115.130.10.53","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:29745-\u003e115.130.10.53:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"115.130.179.115","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:13886-\u003e115.130.179.115:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"61.100.100.119","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- Welcome to Pure-FTPd [privsep] ----------\r\n220-You are user number 1 of 50 allowed.\r\n220-Local time is now 03:06. Server port: 21.\r\n220 You will be disconnected after 15 minutes of inactivity.\r\n"}}
+{"ip":"173.108.97.176","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:48859-\u003e173.108.97.176:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"184.206.196.229","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:53057-\u003e184.206.196.229:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"36.255.120.213","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 sv287.mngsystem.com FTP server (Version 6.00LS) ready.\r\n"}}
+{"ip":"223.6.148.120","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:24571-\u003e223.6.148.120:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"118.190.77.126","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:25057-\u003e118.190.77.126:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"114.215.197.97","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220---------- \ufffd\ufffdӭ\ufffd\ufffd\ufffd\ufffd Pure-FTPd [privsep] ----------\r\n220-\ufffd\ufffd\ufffdǵ\ufffd 1 \ufffd\ufffdʹ\ufffd\ufffd\ufffdߣ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdɴ\ufffd 50 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\r\n220-\ufffd\ufffd\ufffdڱ\ufffd\ufffd\ufffdʱ\ufffd\ufffd\ufffd\ufffd 02:12\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd˿ڣ\ufffd 21\ufffd\ufffd\r\n220-\ufffd\ufffd\ufffd\ufffd˽\ufffd\ufffdϵͳ - \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd¼\r\n220 \ufffd\ufffd 15 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffdû\ufffdл\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdߡ\ufffd\r\n"}}
+{"ip":"217.249.151.55","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Welcome to WD My Cloud\r\n"}}
+{"ip":"112.125.203.105","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:37635-\u003e112.125.203.105:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"123.56.45.160","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:6662-\u003e123.56.45.160:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"150.60.65.101","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"14.111.30.179","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 bftpd 2.2 at 14.111.30.179 ready."}}
+{"ip":"193.151.24.242","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Gene6 FTP Server v3.10.0 (Build 2) ready...\r\n"}}
+{"ip":"190.97.197.115","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Welcome to TBS FTP Server."}}
+{"ip":"222.186.169.233","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:5896-\u003e222.186.169.233:21: i/o timeout","error_component":"banner"}
+{"ip":"85.128.169.226","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 85.128.169.226:21: i/o timeout","error_component":"connect"}
+{"ip":"94.79.111.172","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:23029-\u003e94.79.111.172:21: i/o timeout","error_component":"banner"}
+{"ip":"178.228.141.32","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:53840-\u003e178.228.141.32:21: i/o timeout","error_component":"banner"}
+{"ip":"178.229.51.220","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:37905-\u003e178.229.51.220:21: i/o timeout","error_component":"banner"}
+{"ip":"36.248.25.240","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:17519-\u003e36.248.25.240:21: i/o timeout","error_component":"banner"}
+{"ip":"149.143.9.7","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:24091-\u003e149.143.9.7:21: i/o timeout","error_component":"banner"}
+{"ip":"183.170.4.175","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:64945-\u003e183.170.4.175:21: i/o timeout","error_component":"banner"}
+{"ip":"95.99.50.163","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:17543-\u003e95.99.50.163:21: i/o timeout","error_component":"banner"}
+{"ip":"103.49.61.73","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:36721-\u003e103.49.61.73:21: i/o timeout","error_component":"banner"}
+{"ip":"158.123.50.143","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 158.123.50.143:21: i/o timeout","error_component":"connect"}
+{"ip":"94.184.161.203","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:59828-\u003e94.184.161.203:21: i/o timeout","error_component":"banner"}
+{"ip":"123.183.218.27","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:37241-\u003e123.183.218.27:21: i/o timeout","error_component":"banner"}
+{"ip":"95.99.187.118","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:64402-\u003e95.99.187.118:21: i/o timeout","error_component":"banner"}
+{"ip":"77.216.163.87","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 77.216.163.87:21: i/o timeout","error_component":"connect"}
+{"ip":"101.200.130.238","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:63780-\u003e101.200.130.238:21: i/o timeout","error_component":"banner"}
+{"ip":"77.55.78.239","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 77.55.78.239:21: i/o timeout","error_component":"connect"}
+{"ip":"77.55.34.52","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 77.55.34.52:21: i/o timeout","error_component":"connect"}
+{"ip":"85.195.44.208","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:32587-\u003e85.195.44.208:21: i/o timeout","error_component":"banner"}
+{"ip":"81.45.27.126","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 81.45.27.126:21: i/o timeout","error_component":"connect"}
+{"ip":"103.45.51.50","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:23914-\u003e103.45.51.50:21: i/o timeout","error_component":"banner"}
+{"ip":"95.99.220.14","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:25763-\u003e95.99.220.14:21: i/o timeout","error_component":"banner"}
+{"ip":"206.178.168.199","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:13028-\u003e206.178.168.199:21: i/o timeout","error_component":"banner"}
+{"ip":"103.62.254.149","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 103.62.254.149:21: i/o timeout","error_component":"connect"}
+{"ip":"38.92.121.134","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"201.220.156.149","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 Servidor de FTP\r\n"}}
+{"ip":"180.235.244.203","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"83.181.247.161","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 83.181.247.161:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"70.12.182.196","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:19824-\u003e70.12.182.196:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.154.111.99","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:19534-\u003e174.154.111.99:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"77.217.164.239","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"dial tcp 77.217.164.239:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"213.82.117.23","timestamp":"2017-11-08T13:12:25-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"61.2.60.224","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"dial tcp 61.2.60.224:21: getsockopt: connection refused","error_component":"connect"}
+{"ip":"91.237.81.117","timestamp":"2017-11-08T13:12:25-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"190.58.185.170","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"43.248.102.2","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:2908-\u003e43.248.102.2:21: i/o timeout","error_component":"banner"}
+{"ip":"94.157.32.132","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:26488-\u003e94.157.32.132:21: i/o timeout","error_component":"banner"}
+{"ip":"202.151.7.185","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:4523-\u003e202.151.7.185:21: i/o timeout","error_component":"banner"}
+{"ip":"151.121.74.55","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 151.121.74.55:21: i/o timeout","error_component":"connect"}
+{"ip":"27.57.179.219","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:56649-\u003e27.57.179.219:21: i/o timeout","error_component":"banner"}
+{"ip":"120.41.33.202","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:45071-\u003e120.41.33.202:21: i/o timeout","error_component":"banner"}
+{"ip":"153.149.43.93","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:42207-\u003e153.149.43.93:21: i/o timeout","error_component":"banner"}
+{"ip":"31.21.73.54","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:45476-\u003e31.21.73.54:21: i/o timeout","error_component":"banner"}
+{"ip":"203.249.240.12","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:52861-\u003e203.249.240.12:21: i/o timeout","error_component":"banner"}
+{"ip":"103.61.22.128","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:34646-\u003e103.61.22.128:21: i/o timeout","error_component":"banner"}
+{"ip":"182.77.5.134","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 182.77.5.134:21: i/o timeout","error_component":"connect"}
+{"ip":"112.83.192.158","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:11182-\u003e112.83.192.158:21: i/o timeout","error_component":"banner"}
+{"ip":"134.151.120.233","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:54991-\u003e134.151.120.233:21: i/o timeout","error_component":"banner"}
+{"ip":"212.170.246.20","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 212.170.246.20:21: i/o timeout","error_component":"connect"}
+{"ip":"95.99.182.180","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:56602-\u003e95.99.182.180:21: i/o timeout","error_component":"banner"}
+{"ip":"161.200.68.45","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:14177-\u003e161.200.68.45:21: i/o timeout","error_component":"banner"}
+{"ip":"113.209.49.98","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:56304-\u003e113.209.49.98:21: i/o timeout","error_component":"banner"}
+{"ip":"195.10.37.152","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:16437-\u003e195.10.37.152:21: i/o timeout","error_component":"banner"}
+{"ip":"103.56.19.31","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:10792-\u003e103.56.19.31:21: i/o timeout","error_component":"banner"}
+{"ip":"31.210.44.109","timestamp":"2017-11-08T13:12:25-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"150.60.91.128","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 FTP Server ready.\r\n"}}
+{"ip":"41.225.217.146","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"176.116.103.228","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 6.33.5) ready\r\n"}}
+{"ip":"80.29.12.225","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"199.135.14.201","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:29569-\u003e199.135.14.201:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"173.108.143.206","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:26407-\u003e173.108.143.206:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"184.206.65.8","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:10044-\u003e184.206.65.8:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"109.207.243.26","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220 Ftp firmware update utility"}}
+{"ip":"173.108.164.249","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:60201-\u003e173.108.164.249:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"201.255.187.217","timestamp":"2017-11-08T13:12:25-05:00","data":{"banner":"220 Welcome to TBS FTP Server."}}
+{"ip":"87.106.167.54","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Microsoft FTP Service\r\n    _   _\r\n    |||         '\\\\-//`\r\n    (o o)         (o o)\r\n    ooO--(_)--Ooo-ooO--(_)--Ooo-\r\n    ACCESS ATTEMPT LOGGED\r\n    ___           ___\r\n    .|||.         \u003c_*_\u003e\r\n    (o o)         (o o)\r\n220 ooO--(_)--Ooo--8---(_)--Ooo-\r\n"}}
+{"ip":"119.10.43.221","timestamp":"2017-11-08T13:12:22-05:00","data":{"banner":"220-Microsoft FTP Service\r\n220 \ufffd\ufffdӭ\ufffd\ufffdʹ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdFTP\ufffd\ufffd½\ufffd˻\ufffd\ufffd\ufffd֤ʧ\ufffdܣ\ufffd\ufffd\ufffd\ufffd\ufffd½\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd壺cp.xinnet.com\ufffd\ufffd\ufffd\ufffd¼\ufffd\ufffdԱ\ufffd\ufffd\ufffdĽ\ufffd\ufffdп\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdã\ufffd\r\n"}}
+{"ip":"158.199.162.136","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"112.126.203.96","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:24260-\u003e112.126.203.96:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"125.62.194.56","timestamp":"2017-11-08T13:12:25-05:00","data":{"banner":"220 Microsoft FTP Service\r\n"}}
+{"ip":"112.126.155.143","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:4266-\u003e112.126.155.143:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"166.21.15.30","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:62568-\u003e166.21.15.30:21: i/o timeout","error_component":"banner"}
+{"ip":"212.50.14.204","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:54892-\u003e212.50.14.204:21: i/o timeout","error_component":"banner"}
+{"ip":"79.45.17.10","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 79.45.17.10:21: i/o timeout","error_component":"connect"}
+{"ip":"80.90.42.168","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:63877-\u003e80.90.42.168:21: i/o timeout","error_component":"banner"}
+{"ip":"23.248.250.51","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:50486-\u003e23.248.250.51:21: i/o timeout","error_component":"banner"}
+{"ip":"43.243.46.170","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:33543-\u003e43.243.46.170:21: i/o timeout","error_component":"banner"}
+{"ip":"117.219.241.254","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"dial tcp 117.219.241.254:21: i/o timeout","error_component":"connect"}
+{"ip":"203.185.174.213","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:38080-\u003e203.185.174.213:21: i/o timeout","error_component":"banner"}
+{"ip":"206.201.192.220","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:37044-\u003e206.201.192.220:21: i/o timeout","error_component":"banner"}
+{"ip":"95.99.43.185","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:33027-\u003e95.99.43.185:21: i/o timeout","error_component":"banner"}
+{"ip":"190.13.46.76","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:30425-\u003e190.13.46.76:21: i/o timeout","error_component":"banner"}
+{"ip":"128.248.101.156","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:5422-\u003e128.248.101.156:21: i/o timeout","error_component":"banner"}
+{"ip":"58.30.216.116","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:59739-\u003e58.30.216.116:21: i/o timeout","error_component":"banner"}
+{"ip":"59.152.50.120","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:36443-\u003e59.152.50.120:21: i/o timeout","error_component":"banner"}
+{"ip":"131.118.92.19","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:64707-\u003e131.118.92.19:21: i/o timeout","error_component":"banner"}
+{"ip":"175.96.48.34","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:23619-\u003e175.96.48.34:21: i/o timeout","error_component":"banner"}
+{"ip":"62.79.66.23","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:30295-\u003e62.79.66.23:21: i/o timeout","error_component":"banner"}
+{"ip":"199.253.111.34","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:28021-\u003e199.253.111.34:21: i/o timeout","error_component":"banner"}
+{"ip":"206.178.115.1","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:40089-\u003e206.178.115.1:21: i/o timeout","error_component":"banner"}
+{"ip":"190.186.5.107","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:51222-\u003e190.186.5.107:21: i/o timeout","error_component":"banner"}
+{"ip":"206.178.102.166","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:9785-\u003e206.178.102.166:21: i/o timeout","error_component":"banner"}
+{"ip":"203.64.41.44","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:37173-\u003e203.64.41.44:21: i/o timeout","error_component":"banner"}
+{"ip":"136.227.153.147","timestamp":"2017-11-08T13:12:20-05:00","data":{},"error":"read tcp 141.212.122.96:57526-\u003e136.227.153.147:21: i/o timeout","error_component":"banner"}
+{"ip":"121.197.87.172","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:26669-\u003e121.197.87.172:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"163.30.124.168","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:55051-\u003e163.30.124.168:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"211.124.254.67","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"181.41.76.56","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"115.131.218.230","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:25588-\u003e115.131.218.230:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"115.131.154.37","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:44758-\u003e115.131.154.37:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"115.131.43.153","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:9250-\u003e115.131.43.153:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"173.108.40.225","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:32034-\u003e173.108.40.225:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"107.34.200.177","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:54941-\u003e107.34.200.177:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.154.40.27","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:8023-\u003e174.154.40.27:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.156.110.12","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:16874-\u003e174.156.110.12:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.156.218.192","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:14888-\u003e174.156.218.192:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.156.213.195","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:54726-\u003e174.156.213.195:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"174.156.71.69","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:31640-\u003e174.156.71.69:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"107.34.169.179","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:4419-\u003e107.34.169.179:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"196.6.118.120","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"162.250.143.237","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:44784-\u003e162.250.143.237:21: i/o timeout","error_component":"banner"}
+{"ip":"94.157.46.77","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:32588-\u003e94.157.46.77:21: i/o timeout","error_component":"banner"}
+{"ip":"207.163.247.249","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:58025-\u003e207.163.247.249:21: i/o timeout","error_component":"banner"}
+{"ip":"95.99.101.181","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:33580-\u003e95.99.101.181:21: i/o timeout","error_component":"banner"}
+{"ip":"124.155.205.105","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:32329-\u003e124.155.205.105:21: i/o timeout","error_component":"banner"}
+{"ip":"125.254.56.55","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:48693-\u003e125.254.56.55:21: i/o timeout","error_component":"banner"}
+{"ip":"206.178.33.77","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"dial tcp 206.178.33.77:21: i/o timeout","error_component":"connect"}
+{"ip":"90.183.53.185","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:64194-\u003e90.183.53.185:21: i/o timeout","error_component":"banner"}
+{"ip":"85.128.247.175","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"dial tcp 85.128.247.175:21: i/o timeout","error_component":"connect"}
+{"ip":"206.178.181.239","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"dial tcp 206.178.181.239:21: i/o timeout","error_component":"connect"}
+{"ip":"204.41.68.189","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"dial tcp 204.41.68.189:21: i/o timeout","error_component":"connect"}
+{"ip":"130.231.17.168","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"dial tcp 130.231.17.168:21: i/o timeout","error_component":"connect"}
+{"ip":"85.184.54.14","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:43239-\u003e85.184.54.14:21: i/o timeout","error_component":"banner"}
+{"ip":"204.41.182.105","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"dial tcp 204.41.182.105:21: i/o timeout","error_component":"connect"}
+{"ip":"186.121.196.148","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:56032-\u003e186.121.196.148:21: i/o timeout","error_component":"banner"}
+{"ip":"197.15.228.104","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:28508-\u003e197.15.228.104:21: i/o timeout","error_component":"banner"}
+{"ip":"163.30.186.167","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:2015-\u003e163.30.186.167:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"184.206.12.152","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:36205-\u003e184.206.12.152:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"108.105.64.47","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:26095-\u003e108.105.64.47:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"170.104.77.26","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:46100-\u003e170.104.77.26:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"185.86.139.16","timestamp":"2017-11-08T13:12:23-05:00","data":{"banner":"220 FileZilla Server version 0.9.40 beta written by Tim Kosse (Tim.Kosse@gmx.de) Please visit http://sourceforge.\r\n"}}
+{"ip":"212.26.58.75","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:3990-\u003e212.26.58.75:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"95.98.36.60","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:28247-\u003e95.98.36.60:21: i/o timeout","error_component":"banner"}
+{"ip":"210.189.173.254","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:24098-\u003e210.189.173.254:21: i/o timeout","error_component":"banner"}
+{"ip":"153.92.197.255","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:48803-\u003e153.92.197.255:21: i/o timeout","error_component":"banner"}
+{"ip":"133.97.186.226","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:12573-\u003e133.97.186.226:21: i/o timeout","error_component":"banner"}
+{"ip":"138.192.8.193","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:2042-\u003e138.192.8.193:21: i/o timeout","error_component":"banner"}
+{"ip":"103.37.60.154","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:14557-\u003e103.37.60.154:21: i/o timeout","error_component":"banner"}
+{"ip":"14.201.36.33","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:38414-\u003e14.201.36.33:21: i/o timeout","error_component":"banner"}
+{"ip":"178.227.212.230","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:25300-\u003e178.227.212.230:21: i/o timeout","error_component":"banner"}
+{"ip":"94.157.224.203","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:41447-\u003e94.157.224.203:21: i/o timeout","error_component":"banner"}
+{"ip":"122.114.37.154","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:59854-\u003e122.114.37.154:21: i/o timeout","error_component":"banner"}
+{"ip":"204.40.221.167","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:47054-\u003e204.40.221.167:21: i/o timeout","error_component":"banner"}
+{"ip":"113.209.24.110","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:1912-\u003e113.209.24.110:21: i/o timeout","error_component":"banner"}
+{"ip":"113.209.48.122","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:41509-\u003e113.209.48.122:21: i/o timeout","error_component":"banner"}
+{"ip":"176.64.214.146","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"dial tcp 176.64.214.146:21: i/o timeout","error_component":"connect"}
+{"ip":"204.40.225.125","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:27763-\u003e204.40.225.125:21: i/o timeout","error_component":"banner"}
+{"ip":"95.99.240.161","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:37695-\u003e95.99.240.161:21: i/o timeout","error_component":"banner"}
+{"ip":"81.26.31.81","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:8994-\u003e81.26.31.81:21: i/o timeout","error_component":"banner"}
+{"ip":"173.27.208.240","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:22747-\u003e173.27.208.240:21: i/o timeout","error_component":"banner"}
+{"ip":"88.119.248.154","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:32145-\u003e88.119.248.154:21: i/o timeout","error_component":"banner"}
+{"ip":"94.184.170.49","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:45226-\u003e94.184.170.49:21: i/o timeout","error_component":"banner"}
+{"ip":"134.220.191.31","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:38579-\u003e134.220.191.31:21: i/o timeout","error_component":"banner"}
+{"ip":"219.225.181.34","timestamp":"2017-11-08T13:12:21-05:00","data":{},"error":"read tcp 141.212.122.96:49131-\u003e219.225.181.34:21: i/o timeout","error_component":"banner"}
+{"ip":"60.205.34.163","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:48402-\u003e60.205.34.163:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"77.43.36.90","timestamp":"2017-11-08T13:12:25-05:00","data":{"banner":"220-QTCP at 192.168.100.251.\r\n"}}
+{"ip":"115.131.123.133","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:49224-\u003e115.131.123.133:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"184.206.106.149","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:8053-\u003e184.206.106.149:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"119.61.12.45","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:24567-\u003e119.61.12.45:21: i/o timeout","error_component":"banner"}
+{"ip":"115.24.100.183","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:15437-\u003e115.24.100.183:21: i/o timeout","error_component":"banner"}
+{"ip":"196.17.199.235","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:64895-\u003e196.17.199.235:21: i/o timeout","error_component":"banner"}
+{"ip":"144.89.161.99","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:15012-\u003e144.89.161.99:21: i/o timeout","error_component":"banner"}
+{"ip":"120.114.183.11","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:48901-\u003e120.114.183.11:21: i/o timeout","error_component":"banner"}
+{"ip":"112.83.124.107","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:11916-\u003e112.83.124.107:21: i/o timeout","error_component":"banner"}
+{"ip":"137.44.30.22","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:51746-\u003e137.44.30.22:21: i/o timeout","error_component":"banner"}
+{"ip":"128.248.191.169","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:59213-\u003e128.248.191.169:21: i/o timeout","error_component":"banner"}
+{"ip":"187.14.132.207","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:63423-\u003e187.14.132.207:21: i/o timeout","error_component":"banner"}
+{"ip":"77.55.222.162","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"dial tcp 77.55.222.162:21: i/o timeout","error_component":"connect"}
+{"ip":"31.21.118.72","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:64656-\u003e31.21.118.72:21: i/o timeout","error_component":"banner"}
+{"ip":"178.228.1.182","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:58233-\u003e178.228.1.182:21: i/o timeout","error_component":"banner"}
+{"ip":"134.151.185.73","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:34691-\u003e134.151.185.73:21: i/o timeout","error_component":"banner"}
+{"ip":"178.228.141.164","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:61481-\u003e178.228.141.164:21: i/o timeout","error_component":"banner"}
+{"ip":"178.227.203.96","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:30400-\u003e178.227.203.96:21: i/o timeout","error_component":"banner"}
+{"ip":"120.101.55.7","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:48003-\u003e120.101.55.7:21: i/o timeout","error_component":"banner"}
+{"ip":"137.44.189.154","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:27543-\u003e137.44.189.154:21: i/o timeout","error_component":"banner"}
+{"ip":"199.143.99.36","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:44178-\u003e199.143.99.36:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"184.206.235.141","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:6721-\u003e184.206.235.141:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"173.127.138.88","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:1284-\u003e173.127.138.88:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"173.108.249.184","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:26673-\u003e173.108.249.184:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"107.34.87.68","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:59553-\u003e107.34.87.68:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"173.108.251.213","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:10568-\u003e173.108.251.213:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"184.206.105.248","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:39664-\u003e184.206.105.248:21: read: connection reset by peer","error_component":"banner"}
+{"ip":"90.149.131.75","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:14676-\u003e90.149.131.75:21: i/o timeout","error_component":"banner"}
+{"ip":"144.89.193.112","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:1926-\u003e144.89.193.112:21: i/o timeout","error_component":"banner"}
+{"ip":"186.45.68.176","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:29310-\u003e186.45.68.176:21: i/o timeout","error_component":"banner"}
+{"ip":"198.49.48.63","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:48791-\u003e198.49.48.63:21: i/o timeout","error_component":"banner"}
+{"ip":"103.88.176.134","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:20418-\u003e103.88.176.134:21: i/o timeout","error_component":"banner"}
+{"ip":"195.235.136.139","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"dial tcp 195.235.136.139:21: i/o timeout","error_component":"connect"}
+{"ip":"223.204.5.207","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"dial tcp 223.204.5.207:21: i/o timeout","error_component":"connect"}
+{"ip":"150.107.1.43","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:3510-\u003e150.107.1.43:21: i/o timeout","error_component":"banner"}
+{"ip":"61.164.161.219","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:36595-\u003e61.164.161.219:21: i/o timeout","error_component":"banner"}
+{"ip":"103.61.144.203","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:28005-\u003e103.61.144.203:21: i/o timeout","error_component":"banner"}
+{"ip":"59.74.83.187","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:62577-\u003e59.74.83.187:21: i/o timeout","error_component":"banner"}
+{"ip":"173.127.172.43","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:36887-\u003e173.127.172.43:21: i/o timeout","error_component":"banner"}
+{"ip":"136.227.98.190","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:1168-\u003e136.227.98.190:21: i/o timeout","error_component":"banner"}
+{"ip":"149.143.178.148","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:57988-\u003e149.143.178.148:21: i/o timeout","error_component":"banner"}
+{"ip":"178.231.244.199","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:13651-\u003e178.231.244.199:21: i/o timeout","error_component":"banner"}
+{"ip":"85.128.149.92","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 FTP server ready\r\n"}}
+{"ip":"188.121.124.28","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 MikroTik FTP server (MikroTik 6.33.3) ready\r\n"}}
+{"ip":"95.99.6.91","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:51096-\u003e95.99.6.91:21: i/o timeout","error_component":"banner"}
+{"ip":"199.197.66.132","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:52496-\u003e199.197.66.132:21: i/o timeout","error_component":"banner"}
+{"ip":"204.40.96.238","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:61355-\u003e204.40.96.238:21: i/o timeout","error_component":"banner"}
+{"ip":"206.253.77.32","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:50337-\u003e206.253.77.32:21: i/o timeout","error_component":"banner"}
+{"ip":"223.6.47.250","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:53805-\u003e223.6.47.250:21: i/o timeout","error_component":"banner"}
+{"ip":"41.102.142.65","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"dial tcp 41.102.142.65:21: i/o timeout","error_component":"connect"}
+{"ip":"178.135.77.33","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:46454-\u003e178.135.77.33:21: i/o timeout","error_component":"banner"}
+{"ip":"147.162.137.254","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:38731-\u003e147.162.137.254:21: i/o timeout","error_component":"banner"}
+{"ip":"206.253.94.230","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:37395-\u003e206.253.94.230:21: i/o timeout","error_component":"banner"}
+{"ip":"141.219.248.109","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:54144-\u003e141.219.248.109:21: i/o timeout","error_component":"banner"}
+{"ip":"45.199.136.242","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:12909-\u003e45.199.136.242:21: i/o timeout","error_component":"banner"}
+{"ip":"147.127.225.132","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:13517-\u003e147.127.225.132:21: i/o timeout","error_component":"banner"}
+{"ip":"83.183.59.29","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"dial tcp 83.183.59.29:21: i/o timeout","error_component":"connect"}
+{"ip":"103.40.153.89","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:38717-\u003e103.40.153.89:21: i/o timeout","error_component":"banner"}
+{"ip":"178.228.238.215","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:31954-\u003e178.228.238.215:21: i/o timeout","error_component":"banner"}
+{"ip":"101.4.247.114","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:37842-\u003e101.4.247.114:21: i/o timeout","error_component":"banner"}
+{"ip":"134.220.185.124","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:36492-\u003e134.220.185.124:21: i/o timeout","error_component":"banner"}
+{"ip":"178.227.130.93","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:28376-\u003e178.227.130.93:21: i/o timeout","error_component":"banner"}
+{"ip":"144.89.125.23","timestamp":"2017-11-08T13:12:22-05:00","data":{},"error":"read tcp 141.212.122.96:29554-\u003e144.89.125.23:21: i/o timeout","error_component":"banner"}
+{"ip":"221.224.116.122","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220-FileZilla Server version 0.9.41 beta\r\n220-written by Tim Kosse (Tim.Kosse@gmx.de)\r\n220 Please visit http://sourceforge.net/projects/filezilla/\r\n"}}
+{"ip":"141.64.64.116","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"EOF","error_component":"banner"}
+{"ip":"146.148.150.17","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:2233-\u003e146.148.150.17:21: i/o timeout","error_component":"banner"}
+{"ip":"192.163.178.32","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:9349-\u003e192.163.178.32:21: i/o timeout","error_component":"banner"}
+{"ip":"213.237.24.255","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:13414-\u003e213.237.24.255:21: i/o timeout","error_component":"banner"}
+{"ip":"120.27.33.61","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:59260-\u003e120.27.33.61:21: i/o timeout","error_component":"banner"}
+{"ip":"202.151.6.40","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:55768-\u003e202.151.6.40:21: i/o timeout","error_component":"banner"}
+{"ip":"77.216.231.12","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 77.216.231.12:21: i/o timeout","error_component":"connect"}
+{"ip":"88.196.199.172","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:40202-\u003e88.196.199.172:21: i/o timeout","error_component":"banner"}
+{"ip":"62.79.199.252","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:45460-\u003e62.79.199.252:21: i/o timeout","error_component":"banner"}
+{"ip":"103.206.101.62","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:19779-\u003e103.206.101.62:21: i/o timeout","error_component":"banner"}
+{"ip":"103.45.37.85","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:55143-\u003e103.45.37.85:21: i/o timeout","error_component":"banner"}
+{"ip":"114.55.116.170","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:2389-\u003e114.55.116.170:21: i/o timeout","error_component":"banner"}
+{"ip":"223.204.74.20","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 223.204.74.20:21: i/o timeout","error_component":"connect"}
+{"ip":"62.79.156.103","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:9663-\u003e62.79.156.103:21: i/o timeout","error_component":"banner"}
+{"ip":"218.5.138.243","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:55902-\u003e218.5.138.243:21: i/o timeout","error_component":"banner"}
+{"ip":"137.44.48.110","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:10703-\u003e137.44.48.110:21: i/o timeout","error_component":"banner"}
+{"ip":"194.225.8.227","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:39657-\u003e194.225.8.227:21: i/o timeout","error_component":"banner"}
+{"ip":"213.237.97.241","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 213.237.97.241:21: i/o timeout","error_component":"connect"}
+{"ip":"136.227.23.20","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:57482-\u003e136.227.23.20:21: i/o timeout","error_component":"banner"}
+{"ip":"115.204.228.156","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 bftpd 2.2 at 115.204.228.156 ready."}}
+{"ip":"178.227.168.4","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:32639-\u003e178.227.168.4:21: i/o timeout","error_component":"banner"}
+{"ip":"178.227.130.217","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:25329-\u003e178.227.130.217:21: i/o timeout","error_component":"banner"}
+{"ip":"95.99.39.5","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:36951-\u003e95.99.39.5:21: i/o timeout","error_component":"banner"}
+{"ip":"120.114.160.153","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:40779-\u003e120.114.160.153:21: i/o timeout","error_component":"banner"}
+{"ip":"123.58.38.217","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 123.58.38.217:21: i/o timeout","error_component":"connect"}
+{"ip":"112.125.181.12","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:34470-\u003e112.125.181.12:21: i/o timeout","error_component":"banner"}
+{"ip":"206.110.31.133","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:23746-\u003e206.110.31.133:21: i/o timeout","error_component":"banner"}
+{"ip":"185.41.60.188","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:21045-\u003e185.41.60.188:21: i/o timeout","error_component":"banner"}
+{"ip":"223.99.1.174","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:60203-\u003e223.99.1.174:21: i/o timeout","error_component":"banner"}
+{"ip":"178.229.109.251","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:21839-\u003e178.229.109.251:21: i/o timeout","error_component":"banner"}
+{"ip":"147.127.100.6","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:3899-\u003e147.127.100.6:21: i/o timeout","error_component":"banner"}
+{"ip":"37.0.165.100","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 37.0.165.100:21: i/o timeout","error_component":"connect"}
+{"ip":"118.222.205.97","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:51500-\u003e118.222.205.97:21: i/o timeout","error_component":"banner"}
+{"ip":"172.87.220.180","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:27434-\u003e172.87.220.180:21: i/o timeout","error_component":"banner"}
+{"ip":"199.135.12.25","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 199.135.12.25:21: i/o timeout","error_component":"connect"}
+{"ip":"117.253.222.248","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 117.253.222.248:21: i/o timeout","error_component":"connect"}
+{"ip":"208.84.136.76","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:59852-\u003e208.84.136.76:21: i/o timeout","error_component":"banner"}
+{"ip":"5.63.101.26","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 5.63.101.26:21: i/o timeout","error_component":"connect"}
+{"ip":"90.132.164.56","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"dial tcp 90.132.164.56:21: i/o timeout","error_component":"connect"}
+{"ip":"195.77.95.145","timestamp":"2017-11-08T13:12:23-05:00","data":{},"error":"read tcp 141.212.122.96:48916-\u003e195.77.95.145:21: i/o timeout","error_component":"banner"}
+{"ip":"139.190.195.118","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:4756-\u003e139.190.195.118:21: i/o timeout","error_component":"banner"}
+{"ip":"43.229.155.181","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:9759-\u003e43.229.155.181:21: i/o timeout","error_component":"banner"}
+{"ip":"94.136.187.121","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"dial tcp 94.136.187.121:21: i/o timeout","error_component":"connect"}
+{"ip":"62.79.46.7","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"dial tcp 62.79.46.7:21: i/o timeout","error_component":"connect"}
+{"ip":"209.81.120.137","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:61969-\u003e209.81.120.137:21: i/o timeout","error_component":"banner"}
+{"ip":"178.229.42.203","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:17415-\u003e178.229.42.203:21: i/o timeout","error_component":"banner"}
+{"ip":"149.143.242.124","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:31203-\u003e149.143.242.124:21: i/o timeout","error_component":"banner"}
+{"ip":"147.127.209.57","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:31753-\u003e147.127.209.57:21: i/o timeout","error_component":"banner"}
+{"ip":"80.177.203.193","timestamp":"2017-11-08T13:12:24-05:00","data":{"banner":"220 Inactivity timer = 120 seconds. Use 'site idle \u003csecs\u003e'"}}
+{"ip":"134.220.107.100","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:63514-\u003e134.220.107.100:21: i/o timeout","error_component":"banner"}
+{"ip":"103.195.119.163","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:1372-\u003e103.195.119.163:21: i/o timeout","error_component":"banner"}
+{"ip":"211.152.39.30","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"dial tcp 211.152.39.30:21: i/o timeout","error_component":"connect"}
+{"ip":"136.227.149.187","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:16847-\u003e136.227.149.187:21: i/o timeout","error_component":"banner"}
+{"ip":"103.56.25.7","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:39119-\u003e103.56.25.7:21: i/o timeout","error_component":"banner"}
+{"ip":"223.7.173.108","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:56985-\u003e223.7.173.108:21: i/o timeout","error_component":"banner"}
+{"ip":"133.97.132.179","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:50964-\u003e133.97.132.179:21: i/o timeout","error_component":"banner"}
+{"ip":"118.230.75.175","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:35923-\u003e118.230.75.175:21: i/o timeout","error_component":"banner"}
+{"ip":"45.115.239.36","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:64093-\u003e45.115.239.36:21: i/o timeout","error_component":"banner"}
+{"ip":"219.225.187.50","timestamp":"2017-11-08T13:12:24-05:00","data":{},"error":"read tcp 141.212.122.96:28491-\u003e219.225.187.50:21: i/o timeout","error_component":"banner"}
+{"ip":"122.241.196.237","timestamp":"2017-11-08T13:12:25-05:00","data":{"banner":"220 bftpd 2.2 at 122.241.196.237 ready."}}
+{"ip":"202.28.43.90","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:57490-\u003e202.28.43.90:21: i/o timeout","error_component":"banner"}
+{"ip":"5.40.22.251","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:8514-\u003e5.40.22.251:21: i/o timeout","error_component":"banner"}
+{"ip":"212.54.74.118","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:28859-\u003e212.54.74.118:21: i/o timeout","error_component":"banner"}
+{"ip":"103.31.243.137","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:15284-\u003e103.31.243.137:21: i/o timeout","error_component":"banner"}
+{"ip":"83.30.134.131","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:24001-\u003e83.30.134.131:21: i/o timeout","error_component":"banner"}
+{"ip":"91.128.51.191","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"dial tcp 91.128.51.191:21: i/o timeout","error_component":"connect"}
+{"ip":"222.73.22.43","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:1850-\u003e222.73.22.43:21: i/o timeout","error_component":"banner"}
+{"ip":"45.121.82.22","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:16754-\u003e45.121.82.22:21: i/o timeout","error_component":"banner"}
+{"ip":"120.25.242.117","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"read tcp 141.212.122.96:58627-\u003e120.25.242.117:21: i/o timeout","error_component":"banner"}
+{"ip":"89.109.44.218","timestamp":"2017-11-08T13:12:25-05:00","data":{},"error":"dial tcp 89.109.44.218:21: i/o timeout","error_component":"connect"}
